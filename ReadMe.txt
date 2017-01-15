@@ -14,4 +14,4 @@ Tutorial Link: http://thecodingtutor.com/2017/01/14/autocomplete-textbox-using-p
 
 
 ============ Need Help? ===========
-If you have any query about this script, feel free to comment here - http://thecodingtutor.com/2017/01/14/autocomplete-textbox-using-php-mysql-ajax/. We will reply your query ASAP.
+If you have any query about this script, feel free to comment here - http://thecodingtutor.com/2017/01/14/autocomplete-textbox-using-php-mysql-ajax/.
